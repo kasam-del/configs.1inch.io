@@ -1,1 +1,1 @@
-# configs.1inch.io-frontend
+# configs.1inch.io
